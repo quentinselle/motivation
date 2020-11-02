@@ -7,7 +7,7 @@ A Google Chrome plug-in to motivate.
 
 ## Installation
 
-1. Visit chrome://extensions/
+1. Open Google Chrome and visit `chrome://extensions/`
 
 2. Click on `Load unpacked`
 
