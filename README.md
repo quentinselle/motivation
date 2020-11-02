@@ -2,7 +2,7 @@
 
 A Google Chrome plug-in to motivate.
 
-![](screenshot.png)
+![](resources/screenshot.png)
 
 
 ## Installation

@@ -9,9 +9,9 @@
    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
    "description": "Replace new tab page with Motivation",
    "icons": {
-      "128": "icon-128.png",
-      "16": "icon-16.png",
-      "48": "icon-48.png"
+      "128": "resources/icon-128.png",
+      "16": "resources/icon-16.png",
+      "48": "resources/icon-48.png"
    },
    "manifest_version": 1,
    "name": "Motivation",
